@@ -1,0 +1,299 @@
+[
+  {
+    "question": "Hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "Where can I find the 1st year academic calendar?",
+    "answer": "You can [view the 1st Year Academic Calendar here] https://www.satiengg.in/images/vvncc/academic/2024-08-29%20%20001%20983%20Academic%20Calendar%202024-25%20Ist%20year.pdf."
+  },
+  {
+    "question": "How to download syllabus for 1st year CSE?",
+    "answer": "Download [CSE 1st Year Syllabus](https://yourbackend.com/static/cse_1st_year_syllabus.pdf)."
+  },
+  {
+    "question": "When is the orientation program for freshers?",
+    "answer": "Orientation program is scheduled on 15th August 2025."
+  },
+  {
+    "question": "Where can I submit the anti-ragging affidavit?",
+    "answer": "Submit the [Anti-Ragging Affidavit here](https://yourbackend.com/static/anti_ragging_affidavit.pdf)."
+  },
+  {
+    "question": "How to apply for hostel accommodation?",
+    "answer": "Fill out the [Hostel Admission Form](https://yourbackend.com/static/hostel_form.pdf)."
+  },
+  {
+    "question": "How to generate smart card for ID purposes?",
+    "answer": "Go to Student Portal > Smart Card > Generate Data File."
+  },
+  {
+    "question": "Where can I find timetable for 1st-year classes?",
+    "answer": "Timetable is available under Student Portal > Academics > Timetable."
+  },
+  {
+    "question": "What documents are needed for admission?",
+    "answer": "You need 10th and 12th Marksheet, Transfer Certificate, Migration Certificate, Passport photos."
+  },
+  {
+    "question": "How to pay first-year tuition fees?",
+    "answer": "Tuition fees can be paid via Student Portal > Admissions > Pay Fees."
+  },
+  {
+    "question": "How to contact assigned faculty mentor?",
+    "answer": "Faculty mentor list is available under Student Portal > Mentorship Program."
+  },
+  {
+    "question": "How to apply for SC/ST scholarship?",
+    "answer": "Apply under Student Portal > Scholarships > Government Scholarship section."
+  },
+  {
+    "question": "How to report missing classes issue?",
+    "answer": "Contact your class coordinator or HOD."
+  },
+  {
+    "question": "What is CBCS system?",
+    "answer": "CBCS (Choice Based Credit System) allows choosing elective subjects for personalized learning."
+  },
+  {
+    "question": "Where do I find online classes link?",
+    "answer": "Online class links are shared via Student Portal > Announcements section."
+  },
+  {
+    "question": "How to reset my student portal password?",
+    "answer": "Use 'Forgot Password' option on the portal login page."
+  },
+  {
+    "question": "Where can I download syllabus for 2nd year CSE?",
+    "answer": "Here is [CSE 2nd Year Syllabus PDF](https://yourbackend.com/static/cse_2nd_year_syllabus.pdf)."
+  },
+  {
+    "question": "When does minor project allotment start?",
+    "answer": "Minor project allotment generally starts in January of 2nd year."
+  },
+  {
+    "question": "How to check updated subject list for 2nd year?",
+    "answer": "Updated subjects are available on the Academics > Curriculum page."
+  },
+  {
+    "question": "Where can I download scholarship renewal form?",
+    "answer": "Download [Scholarship Renewal Form](https://yourbackend.com/static/scholarship_renewal_form.pdf)."
+  },
+  {
+    "question": "How to apply for branch change after 1st year?",
+    "answer": "Apply for branch change under the Student Services section after results."
+  },
+  {
+    "question": "How can I participate in tech fests?",
+    "answer": "Register for fests through Student Portal > Event Registrations."
+  },
+  {
+    "question": "How to check 2nd year academic calendar?",
+    "answer": "Academic calendar is available under Student Portal > Academics > Calendar."
+  },
+  {
+    "question": "Where to find previous year question papers?",
+    "answer": "Previous question papers are available in the Central Library Archives."
+  },
+  {
+    "question": "Where to fill backlog examination form?",
+    "answer": "Fill [Backlog Exam Form](https://yourbackend.com/static/backlog_form.pdf) from the Student Portal."
+  },
+  {
+    "question": "How to join coding clubs or societies?",
+    "answer": "Membership form available at Student Clubs > Join Now section."
+  },
+  {
+    "question": "How to register for internships?",
+    "answer": "Internship registration is open at the Training and Placement Cell."
+  },
+  {
+    "question": "Where can I get NOC for industrial training?",
+    "answer": "Download [NOC for Industrial Training](https://yourbackend.com/static/noc_industrial_training.pdf)."
+  },
+  {
+    "question": "When is the major project topic selection for 3rd year?",
+    "answer": "Major project topic selection happens in November of 3rd year."
+  },
+  {
+    "question": "What are the attendance rules for 3rd year students?",
+    "answer": "Minimum 75% attendance is required to appear for exams."
+  },
+  {
+    "question": "Where can I find 3rd-year academic calendar?",
+    "answer": "Check the [3rd Year Academic Calendar](https://yourbackend.com/static/third_year_calendar.pdf)."
+  },
+  {
+    "question": "Where to upload industrial training report?",
+    "answer": "Upload reports under Training and Placement Portal > Internship Submissions."
+  },
+  {
+    "question": "How can I apply for study abroad programs?",
+    "answer": "Details are available under International Cell > Study Abroad Opportunities."
+  },
+  {
+    "question": "How to apply for placement preparation workshops?",
+    "answer": "Register via the Placement Portal > Workshops section."
+  },
+  {
+    "question": "Where to submit major project synopsis?",
+    "answer": "Submit to your project guide and upload it on Student Portal > Projects section."
+  },
+  {
+    "question": "Where can I check semester exam results?",
+    "answer": "Results are published under Student Portal > Examination > View Results."
+  },
+  {
+    "question": "How to apply for merit scholarship?",
+    "answer": "Top 10% students automatically qualify. Check under Scholarship Notifications."
+  },
+  {
+    "question": "When does pre-placement training start?",
+    "answer": "Pre-placement training begins from July for 3rd-year students."
+  },
+  {
+    "question": "Where to find aptitude training material?",
+    "answer": "Materials are available under Placement Resources in Student Portal."
+  },
+  {
+    "question": "What is the eligibility criteria for campus placements?",
+    "answer": "Minimum CGPA 6.0 and no active backlogs."
+  },
+  {
+    "question": "When to apply for summer internships?",
+    "answer": "Start applying between February and March."
+  },
+  {
+    "question": "How to apply for provisional degree certificate?",
+    "answer": "Download the [Provisional Certificate Application Form](https://yourbackend.com/static/provisional_certificate_form.pdf)."
+  },
+  {
+    "question": "When does final semester project evaluation happen?",
+    "answer": "Evaluation occurs in April-May after project submission."
+  },
+  {
+    "question": "Where can I find 4th-year final timetable?",
+    "answer": "Final semester timetable is posted under Student Portal > Academics > Timetables."
+  },
+  {
+    "question": "How to download convocation registration form?",
+    "answer": "Download [Convocation Registration Form](https://yourbackend.com/static/convocation_registration.pdf)."
+  },
+  {
+    "question": "How to collect the final mark sheet?",
+    "answer": "Final mark sheets are issued by the Examination Cell after convocation."
+  },
+  {
+    "question": "Where to check final placement offers?",
+    "answer": "Final offers are listed in Student Portal > Placements > Final Offers."
+  },
+  {
+    "question": "How to apply for migration certificate?",
+    "answer": "Apply via Student Services or download [Migration Certificate Form](https://yourbackend.com/static/migration_form.pdf)."
+  },
+  {
+    "question": "How to apply for degree certificate?",
+    "answer": "Degree application process details are published under Registrar’s Office Notifications."
+  },
+  {
+    "question": "When to register for alumni association?",
+    "answer": "Alumni registration starts immediately after final year results."
+  },
+  {
+    "question": "What happens if final year student has backlog?",
+    "answer": "You must clear backlog exams in the special supplementary schedule."
+  },
+  {
+    "question": "Where can I find important college forms?",
+    "answer": "You can [access all important forms here](https://yourbackend.com/static/forms_list.pdf)."
+  },
+  {
+    "question": "How can I check my attendance online?",
+    "answer": "Login to Student Portal > Attendance section."
+  },
+  {
+    "question": "Where to download the anti-ragging affidavit format?",
+    "answer": "Download [Anti-Ragging Affidavit Format](https://yourbackend.com/static/anti_ragging_affidavit.pdf)."
+  },
+  {
+    "question": "Where is the Training and Placement Cell located?",
+    "answer": "T&P Cell is located in Block A, Ground Floor."
+  },
+  {
+    "question": "How to find student council contacts?",
+    "answer": "Council contacts are listed on the Student Portal > Contacts."
+  },
+  {
+    "question": "Can I apply for library membership online?",
+    "answer": "No, visit the Library Office physically for membership."
+  },
+  {
+    "question": "What is the college website URL?",
+    "answer": "Official website is [https://www.satiengg.in/](https://www.satiengg.in/)."
+  },
+  {
+    "question": "Who to contact for exam grievances?",
+    "answer": "Contact Examination Grievance Cell through portal or in person."
+  },
+  {
+    "question": "How to raise IT service complaints?",
+    "answer": "Use the Student Portal > IT Helpdesk."
+  },
+  {
+    "question": "Where can I get transcripts for foreign applications?",
+    "answer": "Apply at the Registrar’s Office and pay processing fees."
+  },
+  {
+    "question": "Hello",
+    "answer": "Hi! How can I assist you today?"
+  },
+ 
+  {
+    "question": "Hey",
+    "answer": "Hey there! What can I do for you?"
+  },
+  {
+    "question": "Good morning",
+    "answer": "Good morning! How can I assist you today?"
+  },
+  {
+    "question": "Good evening",
+    "answer": "Good evening! How can I help you?"
+  },
+  {
+    "question": "How are you?",
+    "answer": "I'm just a bot, but thanks for asking! How can I assist you today?"
+  },
+  {
+    "question": "What's up?",
+    "answer": "Hey! I'm here to assist you. What do you need help with?"
+  },
+  {
+    "question": "How can I help you?",
+    "answer": "I'm here to answer your questions. How can I assist you today?"
+  },
+  {
+    "question": "What's your name?",
+    "answer": "I’m your friendly chatbot. How can I assist you today?"
+  },
+  {
+    "question": "Tell me a joke",
+    "answer": "Why don't skeletons fight each other? They don't have the guts!"
+  },
+  {
+    "question": "Goodbye",
+    "answer": "Goodbye! Have a great day. Feel free to reach out if you need anything."
+  },
+  {
+    "question": "Bye",
+    "answer": "Bye! Take care. I'll be here if you need any help."
+  },
+  {
+    "question": "See you later",
+    "answer": "See you later! I'm here anytime you need me."
+  },
+  {
+    "question": "What’s your favorite color?",
+    "answer": "I don't have a favorite color, but I do love all the colors of the rainbow!"
+  }
+]
